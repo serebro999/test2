@@ -1,0 +1,15 @@
+.aqua-text {
+    color: aqua;
+
+    
+}
+
+.crimson-text {
+    color: crimson;
+}
+
+.stroke-text {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1.5px;
+    -webkit-text-stroke-color: aqua;
+}
